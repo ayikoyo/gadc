@@ -1,2 +1,2 @@
 # gadc
-A data collection tool
+An information management system for agricultural service providers
